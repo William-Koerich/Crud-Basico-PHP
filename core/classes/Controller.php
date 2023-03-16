@@ -2,8 +2,6 @@
 /**
  * Controller
  *
- * @package CRUD MVC OOP PDO
- * @link    https://github.com/utoyvo/crud-mvc-oop-pdo/blob/master/core/classes/Controller.php
  */
 
 abstract class Controller
